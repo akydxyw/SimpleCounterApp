@@ -1,23 +1,15 @@
 # SimpleCounterApp
 
-A minimal Android counter application written in Kotlin.
+A simple Android demo project written in Kotlin.
 
-## Features
-- Increase and decrease counter
-- Simple and clean UI
-- Uses AndroidX and ViewBinding
+## Overview
+This project demonstrates a basic Android application structure,
+including Activity, layout resources, and Gradle configuration.
 
 ## Tech Stack
 - Kotlin
 - Android SDK
 - AndroidX
 
-## Screens
-- Main screen with counter display
-- Increment and decrement buttons
-
-## Project Purpose
-This project is created as a simple Android practice app to demonstrate basic UI interaction and state handling.
-
-## License
-MIT
+## Status
+Work in progress.
